@@ -71,13 +71,6 @@
          "description": "username of your bot without the @",
          "value": "emiexrobot"
       },
-
-      "BOT_ID": {
-         "description": "to get your bot_id using other bot or userbot",
-         "value": ""
-         "required": false 
-      },
-
       "OWNER_USERNAME": {
          "description": "Your username without the @",
          "value": "excrybaby"
