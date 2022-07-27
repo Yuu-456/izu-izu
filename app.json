@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
-   "repository": "https://github.com/kennedy-ex/https://github.com/kennedy-ex/EmikoRobot",
+   "repository": "https://github.com/kennedy-ex/https://github.com/yuu-456/izu-izu",
    "addons": [
           {
          "options": {
@@ -29,7 +29,7 @@
   ],  
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "Your bot token. Get one from @BotFather ",
          "required": true,
          "value": ""
       },
@@ -75,6 +75,7 @@
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
          "value": ""
+         "required": false 
       },
 
       "OWNER_USERNAME": {
